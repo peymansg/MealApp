@@ -1,33 +1,19 @@
-    This is a React Native mobile application built using React and JavaScript. It features four core utilities that showcase integration with device hardware and APIs:
-    🔹 Features:
+🍲 React Native Meal App
 
-     Weather Lookup by Zip Code
-     – Users can enter a zip code to retrieve and display current weather data using an external API.
+A simple and visually appealing mobile application built with React Native that displays different meals and their ingredients. The app includes intuitive navigation, beautiful images for each meal, and a drawer menu for smooth page switching.
 
-     Bluetooth Device Scanner
-     – Scans and lists nearby Bluetooth-enabled devices.
+📱 Features
+	•	🖼️ View meals with corresponding images
+	•	📋 See ingredients for each meal
+	•	🧭 Navigate between different screens (e.g., Meal Categories, Meal Details)
+	•	📂 Drawer menu for easy and intuitive navigation
 
-     Wi-Fi Network Scanner
-     – Displays available Wi-Fi networks in the area (device permission required).
-
-     Barcode Scanner
-     – Uses the device's camera to scan and decode barcodes in real-time.
-
-    🧰 Technologies Used:
-
-     React Native (with Expo)
-
-     JavaScript (ES6+)
-
-     OpenWeatherMap API (for weather)
-
-     Expo Bluetooth & Wi-Fi modules
-
-     Expo Camera for barcode scanning
-
-    🎯 Goal:
-
-    To demonstrate how mobile apps can integrate hardware features using React Native. This app is perfect for learning or expanding your understanding of React Native development with JavaScript.This is a React Native mobile application built using React and JavaScript. It features four core utilities that showcase integration with device hardware and APIs: 🔹 Features: Weather Lookup by Zip Code – Users can enter a zip code to retrieve and display current weather data using an external API. Bluetooth Device Scanner – Scans and lists nearby Bluetooth-enabled devices. Wi-Fi Network Scanner – Displays available Wi-Fi networks in the area (device permission required). Barcode Scanner – Uses the device's camera to scan and decode barcodes in real-time. 🧰 Technologies Used: React Native (with Expo) JavaScript (ES6+) OpenWeatherMap API (for weather) Expo Bluetooth & Wi-Fi modules Expo Camera for barcode scanning 🎯 Goal: To demonstrate how mobile apps can integrate hardware features using React Native. This app is perfect for learning or expanding your understanding of React Native development with JavaScript.
+🛠️ Tech Stack
+	•	Framework: React Native
+	•	Navigation: React Navigation (Drawer & Stack Navigators)
+	•	State Management: React useState / useEffect (no external state manager)
+	•	UI Components: React Native core components
+ .
     Skills: React Native · JavaScript · Git
 ![Screenshot_1747219375_s](https://github.com/user-attachments/assets/1e95b3db-818a-4207-8904-cafd81a0366b)
 ![Screenshot_1747219411](https://github.com/user-attachments/assets/5ef576ba-d3d5-49b4-90b9-b0b9db3c9bc2)
