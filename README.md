@@ -13,8 +13,7 @@ A simple and visually appealing mobile application built with React Native that 
 	•	Navigation: React Navigation (Drawer & Stack Navigators)
 	•	State Management: React useState / useEffect (no external state manager)
 	•	UI Components: React Native core components
- .
-    Skills: React Native · JavaScript · Git
+ 
 ![Screenshot_1747219375_s](https://github.com/user-attachments/assets/1e95b3db-818a-4207-8904-cafd81a0366b)
 ![Screenshot_1747219411](https://github.com/user-attachments/assets/5ef576ba-d3d5-49b4-90b9-b0b9db3c9bc2)
 ![Screenshot_1747219422](https://github.com/user-attachments/assets/678bd309-fd58-414e-a69e-67db75bcd558)
